@@ -7,7 +7,7 @@ import sys
 load_dotenv()
 
 
-PATH_DATA = "D:/LLMs/End-to-end-NLP-System-Building-ASM/crawl/data_vnu_wikipedia_ver_1.1.txt"
+PATH_DATA = "../crawl/data_vnu_wikipedia_ver_1.1.txt"
 MODEL_EMBEDDING = os.getenv("MODEL_EMBEDDING")
 CHUNK_SIZE = 256
 

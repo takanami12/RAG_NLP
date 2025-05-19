@@ -9,7 +9,7 @@ load_dotenv()
 
 MODEL_EMBEDDING = os.getenv("MODEL_EMBEDDING")
 CHUNK_SIZE = 256
-PATH_TEST_DATA = "../data/demo_wiki_questions.json"
+PATH_TEST_DATA = "../data/demo_questions.json"
 
 
 def main():
@@ -33,7 +33,7 @@ def main():
         item["rag_prompt"] = rag_prompt
 
     # Save to new JSON file
-    with open("../data/rag-prompt-result.json", "w", encoding="utf-8") as f:
+    with open("../data/demo-result.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 

@@ -9,7 +9,7 @@ load_dotenv()
 
 MODEL_EMBEDDING = os.getenv("MODEL_EMBEDDING")
 CHUNK_SIZE = 256
-PATH_TEST_DATA = "../data/demo_wiki_questions.json"
+PATH_TEST_DATA = "../data/demo_questions.json"
 
 model_list = [
     { 

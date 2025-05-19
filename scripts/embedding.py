@@ -8,7 +8,7 @@ import faiss
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = your_openai_api_key  # Thay thế bằng API key của bạn
 
 Settings.llm = None  # Không sử dụng LLM trong quá trình tạo index
 

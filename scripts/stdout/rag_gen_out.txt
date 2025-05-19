@@ -1,0 +1,1326 @@
+[Chunk] Tokens: 13 | Text: Đại học Quốc gia Hà Nội có bao nhiêu trường thành ...
+RAG query result 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu trường thành viên?
+### Câu trả lời: 
+
+--- Query 1: Tọa độ của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 14 | Text: Tọa độ của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 1: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Tọa độ của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 2: Đại học Quốc gia Hà Nội thuộc loại hình nào? ---
+[Chunk] Tokens: 11 | Text: Đại học Quốc gia Hà Nội thuộc loại hình nào?...
+rag_answer 2: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Đại học Quốc gia Hà Nội thuộc loại hình nào?
+### Câu trả lời: 
+
+--- Query 3: Khẩu hiệu của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 14 | Text: Khẩu hiệu của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 3: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Khẩu hiệu của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 4: Đại học Quốc gia Hà Nội được thành lập vào năm nào? ---
+[Chunk] Tokens: 13 | Text: Đại học Quốc gia Hà Nội được thành lập vào năm nào...
+rag_answer 4: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTiền thânNhiều văn bản của Đại học Quốc gia Hà Nội thường nhắc tới sự liên hệ vớiViện Đại học Đông Dươngđược thành lập năm 1906 ở Hà Nội như một tiền thân của nhà trường,]với việc trụ sở cũ của Viện Đại học Đôn Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTiền thânNhiều văn bản của Đại học Quốc gia Hà Nội thường nhắc tới sự liên hệ vớiViện Đại học Đông Dươngđược thành lập năm 1906 ở Hà Nội như một tiền thân của nhà trường,]với việc trụ sở cũ của Viện Đại học Đôn Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTiền thânNhiều văn bản của Đại học Quốc gia Hà Nội thường nhắc tới sự liên hệ vớiViện Đại học Đông Dươngđược thành lập năm 1906 ở Hà Nội như một tiền thân của nhà trường,]với việc trụ sở cũ của Viện Đại học Đôn
+### Câu hỏi: Đại học Quốc gia Hà Nội được thành lập vào năm nào?
+### Câu trả lời: 
+
+--- Query 5: Đại học Quốc gia Hà Nội thuộc thể loại nào? ---
+[Chunk] Tokens: 11 | Text: Đại học Quốc gia Hà Nội thuộc thể loại nào?...
+rag_answer 5: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Đại học Quốc gia Hà Nội thuộc thể loại nào?
+### Câu trả lời: 
+
+--- Query 6: Ai là Giám đốc của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 12 | Text: Ai là Giám đốc của Đại học Quốc gia Hà Nội?...
+rag_answer 6: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Ai là Giám đốc của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 7: Số lượng nhân viên của Đại học Quốc gia Hà Nội vào năm 2022 là bao nhiêu? ---
+[Chunk] Tokens: 18 | Text: Số lượng nhân viên của Đại học Quốc gia Hà Nội vào...
+rag_answer 7: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Số lượng nhân viên của Đại học Quốc gia Hà Nội vào năm 2022 là bao nhiêu?
+### Câu trả lời: 
+
+--- Query 8: Số lượng giảng viên của Đại học Quốc gia Hà Nội vào năm 2022 là bao nhiêu? ---
+[Chunk] Tokens: 18 | Text: Số lượng giảng viên của Đại học Quốc gia Hà Nội và...
+rag_answer 8: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Số lượng giảng viên của Đại học Quốc gia Hà Nội vào năm 2022 là bao nhiêu?
+### Câu trả lời: 
+
+--- Query 9: Khuôn viên của Đại học Quốc gia Hà Nội rộng bao nhiêu hecta? ---
+[Chunk] Tokens: 16 | Text: Khuôn viên của Đại học Quốc gia Hà Nội rộng bao nh...
+rag_answer 9: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Theo quyết định này, diện tích đất để quy hoạch xây dựng Đại học Quốc gia Hà Nội là 1000 ha, nằm trong phạm vi đất Nông trường 1A thuộc huyệnThạch Thất, tỉnhHà Tâynay làHà Nội Theo quyết định này, diện tích đất để quy hoạch xây dựng Đại học Quốc gia Hà Nội là 1000 ha, nằm trong phạm vi đất Nông trường 1A thuộc huyệnThạch Thất, tỉnhHà Tâynay làHà Nội Theo quyết định này, diện tích đất để quy hoạch xây dựng Đại học Quốc gia Hà Nội là 1000 ha, nằm trong phạm vi đất Nông trường 1A thuộc huyệnThạch Thất, tỉnhHà Tâynay làHà Nội
+### Câu hỏi: Khuôn viên của Đại học Quốc gia Hà Nội rộng bao nhiêu hecta?
+### Câu trả lời: 
+
+--- Query 10: Màu sắc của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 13 | Text: Màu sắc của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 10: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Màu sắc của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 11: Bài hát của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 12 | Text: Bài hát của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 11: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế.
+### Câu hỏi: Bài hát của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 12: Website của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 11 | Text: Website của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 12: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Website của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 13: Viết tắt của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 12 | Text: Viết tắt của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 13: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Viết tắt của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 14: Đại học Quốc gia Hà Nội thuộc tổ chức nào? ---
+[Chunk] Tokens: 11 | Text: Đại học Quốc gia Hà Nội thuộc tổ chức nào?...
+rag_answer 14: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Đại học Quốc gia Hà Nội thuộc tổ chức nào?
+### Câu trả lời: 
+
+--- Query 15: Đại học Quốc gia Hà Nội có những thành viên nào? ---
+[Chunk] Tokens: 12 | Text: Đại học Quốc gia Hà Nội có những thành viên nào?...
+rag_answer 15: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Đại học Quốc gia Hà Nội có những thành viên nào?
+### Câu trả lời: 
+
+--- Query 16: Ai là phó hiệu trưởng danh dự của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 15 | Text: Ai là phó hiệu trưởng danh dự của Đại học Quốc gia...
+rag_answer 16: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Ai là phó hiệu trưởng danh dự của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 17: Số lượng sinh viên đại học tại Đại học Quốc gia Hà Nội năm 2022 là bao nhiêu? ---
+[Chunk] Tokens: 19 | Text: Số lượng sinh viên đại học tại Đại học Quốc gia Hà...
+rag_answer 17: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Số lượng sinh viên đại học tại Đại học Quốc gia Hà Nội năm 2022 là bao nhiêu?
+### Câu trả lời: 
+
+--- Query 18: Số lượng sinh viên sau đại học tại Đại học Quốc gia Hà Nội vào năm 2021 là bao nhiêu? ---
+[Chunk] Tokens: 21 | Text: Số lượng sinh viên sau đại học tại Đại học Quốc gi...
+rag_answer 18: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Số lượng sinh viên sau đại học tại Đại học Quốc gia Hà Nội vào năm 2021 là bao nhiêu?
+### Câu trả lời: 
+
+--- Query 19: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việt Nam theo QS năm 2021? ---
+[Chunk] Tokens: 19 | Text: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việ...
+rag_answer 19: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việt Nam theo QS năm 2021?
+### Câu trả lời: 
+
+--- Query 20: Đại học Quốc gia Hà Nội được xếp hạng bao nhiêu tại Việt Nam trong bảng xếp hạng THE năm 2021? ---
+[Chunk] Tokens: 22 | Text: Đại học Quốc gia Hà Nội được xếp hạng bao nhiêu tạ...
+rag_answer 20: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Đại học Quốc gia Hà Nội được xếp hạng bao nhiêu tại Việt Nam trong bảng xếp hạng THE năm 2021?
+### Câu trả lời: 
+
+--- Query 21: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việt Nam theo uniRank năm 2020? ---
+[Chunk] Tokens: 20 | Text: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việ...
+rag_answer 21: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việt Nam theo uniRank năm 2020?
+### Câu trả lời: 
+
+--- Query 22: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việt Nam trong bảng xếp hạng Webometrics năm 2020? ---
+[Chunk] Tokens: 23 | Text: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việ...
+rag_answer 22: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtBệnh viện trực thuộc 01Bệnh viện Đại học Quốc gia Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtBệnh viện trực thuộc 01Bệnh viện Đại học Quốc gia Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtBệnh viện trực thuộc 01Bệnh viện Đại học Quốc gia Hà Nội
+### Câu hỏi: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu tại Việt Nam trong bảng xếp hạng Webometrics năm 2020?
+### Câu trả lời: 
+
+--- Query 23: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu theo QS năm 2021? ---
+[Chunk] Tokens: 16 | Text: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu theo QS...
+rag_answer 23: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu theo QS năm 2021?
+### Câu trả lời: 
+
+--- Query 24: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong bảng xếp hạng THE năm 2021? ---
+[Chunk] Tokens: 18 | Text: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong b...
+rag_answer 24: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong bảng xếp hạng THE năm 2021?
+### Câu trả lời: 
+
+--- Query 25: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong bảng xếp hạng Webometrics năm 2020? ---
+[Chunk] Tokens: 20 | Text: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong b...
+rag_answer 25: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong bảng xếp hạng Webometrics năm 2020?
+### Câu trả lời: 
+
+--- Query 26: Đại học Quốc gia Hà Nội xếp hạng thế giới theo THE năm 2021 là gì? ---
+[Chunk] Tokens: 17 | Text: Đại học Quốc gia Hà Nội xếp hạng thế giới theo THE...
+rag_answer 26: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Đại học Quốc gia Hà Nội xếp hạng thế giới theo THE năm 2021 là gì?
+### Câu trả lời: 
+
+--- Query 27: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu theo uniRank năm 2020? ---
+[Chunk] Tokens: 17 | Text: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu theo un...
+rag_answer 27: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu theo uniRank năm 2020?
+### Câu trả lời: 
+
+--- Query 28: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong bảng xếp hạng Webometrics năm 2020? ---
+[Chunk] Tokens: 20 | Text: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong b...
+rag_answer 28: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Đại học Quốc gia Hà Nội xếp hạng bao nhiêu trong bảng xếp hạng Webometrics năm 2020?
+### Câu trả lời: 
+
+--- Query 29: Đại học Quốc gia Hà Nội được đánh giá là một trong những đại học tốt nhất thế giới của Việt Nam, đúng hay sai? ---
+[Chunk] Tokens: 27 | Text: Đại học Quốc gia Hà Nội được đánh giá là một trong...
+rag_answer 29: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Đại học Quốc gia Hà Nội được đánh giá là một trong những đại học tốt nhất thế giới của Việt Nam, đúng hay sai?
+### Câu trả lời: 
+
+--- Query 30: Đại học Quốc gia Hà Nội chịu sự chỉ đạo của ai? ---
+[Chunk] Tokens: 13 | Text: Đại học Quốc gia Hà Nội chịu sự chỉ đạo của ai?...
+rag_answer 30: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Đại học Quốc gia Hà Nội chịu sự chỉ đạo của ai?
+### Câu trả lời: 
+
+--- Query 31: Viện Đại học Đông Dương được thành lập năm nào và ở đâu? ---
+[Chunk] Tokens: 14 | Text: Viện Đại học Đông Dương được thành lập năm nào và ...
+rag_answer 31: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTiền thânNhiều văn bản của Đại học Quốc gia Hà Nội thường nhắc tới sự liên hệ vớiViện Đại học Đông Dươngđược thành lập năm 1906 ở Hà Nội như một tiền thân của nhà trường,]với việc trụ sở cũ của Viện Đại học Đôn Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTiền thânNhiều văn bản của Đại học Quốc gia Hà Nội thường nhắc tới sự liên hệ vớiViện Đại học Đông Dươngđược thành lập năm 1906 ở Hà Nội như một tiền thân của nhà trường,]với việc trụ sở cũ của Viện Đại học Đôn Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTiền thânNhiều văn bản của Đại học Quốc gia Hà Nội thường nhắc tới sự liên hệ vớiViện Đại học Đông Dươngđược thành lập năm 1906 ở Hà Nội như một tiền thân của nhà trường,]với việc trụ sở cũ của Viện Đại học Đôn
+### Câu hỏi: Viện Đại học Đông Dương được thành lập năm nào và ở đâu?
+### Câu trả lời: 
+
+--- Query 32: Trường Khoa học Cơ bản được thành lập vào năm nào và ở đâu? ---
+[Chunk] Tokens: 15 | Text: Trường Khoa học Cơ bản được thành lập vào năm nào ...
+rag_answer 32: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Năm1951, trênchiến khu Việt Bắc,Chính phủ Liên hiệp Quốc dânthành lậpTrường Khoa học Cơ bản.Đây là một trong những trường tiền thân của Trường Đại học Tổng hợp Hà Nội sau này.] Năm1956,Trường Đại học Tổng hợp Hà Nộiđược thành lập theo Quyết định số 2183/TC Năm1951, trênchiến khu Việt Bắc,Chính phủ Liên hiệp Quốc dânthành lậpTrường Khoa học Cơ bản.Đây là một trong những trường tiền thân của Trường Đại học Tổng hợp Hà Nội sau này.] Năm1956,Trường Đại học Tổng hợp Hà Nộiđược thành lập theo Quyết định số 2183/TC Năm1951, trênchiến khu Việt Bắc,Chính phủ Liên hiệp Quốc dânthành lậpTrường Khoa học Cơ bản.Đây là một trong những trường tiền thân của Trường Đại học Tổng hợp Hà Nội sau này.] Năm1956,Trường Đại học Tổng hợp Hà Nộiđược thành lập theo Quyết định số 2183/TC
+### Câu hỏi: Trường Khoa học Cơ bản được thành lập vào năm nào và ở đâu?
+### Câu trả lời: 
+
+--- Query 33: Trường Đại học Tổng hợp Hà Nội được thành lập vào năm nào? ---
+[Chunk] Tokens: 14 | Text: Trường Đại học Tổng hợp Hà Nội được thành lập vào ...
+rag_answer 33: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Năm1951, trênchiến khu Việt Bắc,Chính phủ Liên hiệp Quốc dânthành lậpTrường Khoa học Cơ bản.Đây là một trong những trường tiền thân của Trường Đại học Tổng hợp Hà Nội sau này.] Năm1956,Trường Đại học Tổng hợp Hà Nộiđược thành lập theo Quyết định số 2183/TC Năm1951, trênchiến khu Việt Bắc,Chính phủ Liên hiệp Quốc dânthành lậpTrường Khoa học Cơ bản.Đây là một trong những trường tiền thân của Trường Đại học Tổng hợp Hà Nội sau này.] Năm1956,Trường Đại học Tổng hợp Hà Nộiđược thành lập theo Quyết định số 2183/TC Năm1951, trênchiến khu Việt Bắc,Chính phủ Liên hiệp Quốc dânthành lậpTrường Khoa học Cơ bản.Đây là một trong những trường tiền thân của Trường Đại học Tổng hợp Hà Nội sau này.] Năm1956,Trường Đại học Tổng hợp Hà Nộiđược thành lập theo Quyết định số 2183/TC
+### Câu hỏi: Trường Đại học Tổng hợp Hà Nội được thành lập vào năm nào?
+### Câu trả lời: 
+
+--- Query 34: Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành lập vào năm nào? ---
+[Chunk] Tokens: 16 | Text: Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành...
+rag_answer 34: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Năm1967, Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành lập trên cơ sở các khoa ngoại ngữ Nga văn, Trung văn, Anh văn và Pháp văn của Trường Đại học Sư phạm Hà Nội Năm1967, Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành lập trên cơ sở các khoa ngoại ngữ Nga văn, Trung văn, Anh văn và Pháp văn của Trường Đại học Sư phạm Hà Nội Năm1967, Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành lập trên cơ sở các khoa ngoại ngữ Nga văn, Trung văn, Anh văn và Pháp văn của Trường Đại học Sư phạm Hà Nội
+### Câu hỏi: Trường Đại học Sư phạm Ngoại ngữ Hà Nội được thành lập vào năm nào?
+### Câu trả lời: 
+
+--- Query 35: Đại học Quốc gia Hà Nội được thành lập vào năm nào? ---
+[Chunk] Tokens: 13 | Text: Đại học Quốc gia Hà Nội được thành lập vào năm nào...
+rag_answer 35: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTiền thânNhiều văn bản của Đại học Quốc gia Hà Nội thường nhắc tới sự liên hệ vớiViện Đại học Đông Dươngđược thành lập năm 1906 ở Hà Nội như một tiền thân của nhà trường,]với việc trụ sở cũ của Viện Đại học Đôn Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTiền thânNhiều văn bản của Đại học Quốc gia Hà Nội thường nhắc tới sự liên hệ vớiViện Đại học Đông Dươngđược thành lập năm 1906 ở Hà Nội như một tiền thân của nhà trường,]với việc trụ sở cũ của Viện Đại học Đôn Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTiền thânNhiều văn bản của Đại học Quốc gia Hà Nội thường nhắc tới sự liên hệ vớiViện Đại học Đông Dươngđược thành lập năm 1906 ở Hà Nội như một tiền thân của nhà trường,]với việc trụ sở cũ của Viện Đại học Đôn
+### Câu hỏi: Đại học Quốc gia Hà Nội được thành lập vào năm nào?
+### Câu trả lời: 
+
+--- Query 36: Trước năm 2000, ĐHQGHN có bao nhiêu trường đại học và viện nghiên cứu? ---
+[Chunk] Tokens: 18 | Text: Trước năm 2000, ĐHQGHN có bao nhiêu trường đại học...
+rag_answer 36: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Bệnh viện ĐHQGHN Bệnh viện ĐHQGHN Bệnh viện ĐHQGHN
+### Câu hỏi: Trước năm 2000, ĐHQGHN có bao nhiêu trường đại học và viện nghiên cứu?
+### Câu trả lời: 
+
+--- Query 37: Năm nào Chính phủ ban hành Nghị định về việc xóa bỏ Trường Đại học Đại cương? ---
+[Chunk] Tokens: 18 | Text: Năm nào Chính phủ ban hành Nghị định về việc xóa b...
+rag_answer 37: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Năm1998, Chính phủ ban hành Nghị định về việc xóa bỏTrường Đại học Đại cương Năm1998, Chính phủ ban hành Nghị định về việc xóa bỏTrường Đại học Đại cương Năm1998, Chính phủ ban hành Nghị định về việc xóa bỏTrường Đại học Đại cương
+### Câu hỏi: Năm nào Chính phủ ban hành Nghị định về việc xóa bỏ Trường Đại học Đại cương?
+### Câu trả lời: 
+
+--- Query 38: Đại học Quốc gia Hà Nội được thành lập vào năm nào và có những ngành nào vào thời điểm đó? ---
+[Chunk] Tokens: 22 | Text: Đại học Quốc gia Hà Nội được thành lập vào năm nào...
+rag_answer 38: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Đại học Quốc gia Hà Nội được thành lập vào năm nào và có những ngành nào vào thời điểm đó?
+### Câu trả lời: 
+
+--- Query 39: Trường Đại học Công nghệ được thành lập vào ngày nào? ---
+[Chunk] Tokens: 12 | Text: Trường Đại học Công nghệ được thành lập vào ngày n...
+rag_answer 39: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường ĐH Công nghệ Trường ĐH Công nghệ Trường ĐH Công nghệ
+### Câu hỏi: Trường Đại học Công nghệ được thành lập vào ngày nào?
+### Câu trả lời: 
+
+--- Query 40: Trường Đại học Kinh tế được thành lập vào ngày nào? ---
+[Chunk] Tokens: 12 | Text: Trường Đại học Kinh tế được thành lập vào ngày nào...
+rag_answer 40: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Ngày 6 tháng 3 năm2007, thành lậpTrường Đại học Kinh tếtrên cơ sở Khoa Kinh tế Ngày 6 tháng 3 năm2007, thành lậpTrường Đại học Kinh tếtrên cơ sở Khoa Kinh tế Ngày 6 tháng 3 năm2007, thành lậpTrường Đại học Kinh tếtrên cơ sở Khoa Kinh tế
+### Câu hỏi: Trường Đại học Kinh tế được thành lập vào ngày nào?
+### Câu trả lời: 
+
+--- Query 41: Trường Đại học Giáo dục được thành lập vào ngày nào? ---
+[Chunk] Tokens: 12 | Text: Trường Đại học Giáo dục được thành lập vào ngày nà...
+rag_answer 41: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Ngày 3 tháng 4 năm2009, thành lậpTrường Đại học Giáo dụctrên cơ sở Khoa Sư phạm Ngày 3 tháng 4 năm2009, thành lậpTrường Đại học Giáo dụctrên cơ sở Khoa Sư phạm Ngày 3 tháng 4 năm2009, thành lậpTrường Đại học Giáo dụctrên cơ sở Khoa Sư phạm
+### Câu hỏi: Trường Đại học Giáo dục được thành lập vào ngày nào?
+### Câu trả lời: 
+
+--- Query 42: Trường Đại học Việt - Nhật được thành lập vào ngày nào? ---
+[Chunk] Tokens: 13 | Text: Trường Đại học Việt - Nhật được thành lập vào ngày...
+rag_answer 42: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Ngày 9 tháng 9 năm2016, thành lậpTrường Đại học Việt - Nhậtdựa trên ý tưởng của lãnh đạo cấp cao hai nướcViệt NamvàNhật Bản Ngày 9 tháng 9 năm2016, thành lậpTrường Đại học Việt - Nhậtdựa trên ý tưởng của lãnh đạo cấp cao hai nướcViệt NamvàNhật Bản Ngày 9 tháng 9 năm2016, thành lậpTrường Đại học Việt - Nhậtdựa trên ý tưởng của lãnh đạo cấp cao hai nướcViệt NamvàNhật Bản
+### Câu hỏi: Trường Đại học Việt - Nhật được thành lập vào ngày nào?
+### Câu trả lời: 
+
+--- Query 43: Trường Đại học Y Dược được thành lập vào ngày nào? ---
+[Chunk] Tokens: 12 | Text: Trường Đại học Y Dược được thành lập vào ngày nào?...
+rag_answer 43: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Ngày 27 tháng 10 năm2020, thành lậpTrường Đại học Y Dượctrên cơ sở Khoa Y Dược Ngày 27 tháng 10 năm2020, thành lậpTrường Đại học Y Dượctrên cơ sở Khoa Y Dược Ngày 27 tháng 10 năm2020, thành lậpTrường Đại học Y Dượctrên cơ sở Khoa Y Dược
+### Câu hỏi: Trường Đại học Y Dược được thành lập vào ngày nào?
+### Câu trả lời: 
+
+--- Query 44: Khi nào Trường Quốc tế và Trường Quản trị và Kinh doanh được thành lập? ---
+[Chunk] Tokens: 16 | Text: Khi nào Trường Quốc tế và Trường Quản trị và Kinh ...
+rag_answer 44: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Quản trị và Kinh doanh Trường Quản trị và Kinh doanh Trường Quản trị và Kinh doanh
+### Câu hỏi: Khi nào Trường Quốc tế và Trường Quản trị và Kinh doanh được thành lập?
+### Câu trả lời: 
+
+--- Query 45: Trường Đại học Luật được thành lập vào ngày nào? ---
+[Chunk] Tokens: 11 | Text: Trường Đại học Luật được thành lập vào ngày nào?...
+rag_answer 45: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Ngày 3 tháng 4 năm2009, thành lậpTrường Đại học Giáo dụctrên cơ sở Khoa Sư phạm Ngày 3 tháng 4 năm2009, thành lậpTrường Đại học Giáo dụctrên cơ sở Khoa Sư phạm Ngày 3 tháng 4 năm2009, thành lậpTrường Đại học Giáo dụctrên cơ sở Khoa Sư phạm
+### Câu hỏi: Trường Đại học Luật được thành lập vào ngày nào?
+### Câu trả lời: 
+
+--- Query 46: Trường Khoa học liên ngành và Nghệ thuật được thành lập vào ngày nào? ---
+[Chunk] Tokens: 15 | Text: Trường Khoa học liên ngành và Nghệ thuật được thàn...
+rag_answer 46: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà Nội thuộcTrường Khoa học Liên ngành và Nghệ thuật Hà Nội thuộcTrường Khoa học Liên ngành và Nghệ thuật Hà Nội thuộcTrường Khoa học Liên ngành và Nghệ thuật
+### Câu hỏi: Trường Khoa học liên ngành và Nghệ thuật được thành lập vào ngày nào?
+### Câu trả lời: 
+
+--- Query 47: Đại học Quốc gia Hà Nội hiện có bao nhiêu trường đại học thành viên? ---
+[Chunk] Tokens: 16 | Text: Đại học Quốc gia Hà Nội hiện có bao nhiêu trường đ...
+rag_answer 47: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội hiện có bao nhiêu trường đại học thành viên?
+### Câu trả lời: 
+
+--- Query 48: Đại học Quốc gia Hà Nội có bao nhiêu cấp quản lý hành chính? ---
+[Chunk] Tokens: 15 | Text: Đại học Quốc gia Hà Nội có bao nhiêu cấp quản lý h...
+rag_answer 48: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu cấp quản lý hành chính?
+### Câu trả lời: 
+
+--- Query 49: Ai là người bổ nhiệm Giám đốc và các Phó Giám đốc của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 20 | Text: Ai là người bổ nhiệm Giám đốc và các Phó Giám đốc ...
+rag_answer 49: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Ai là người bổ nhiệm Giám đốc và các Phó Giám đốc của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 50: Các đơn vị cơ sở của Đại học Quốc gia Hà Nội có những loại nào? ---
+[Chunk] Tokens: 17 | Text: Các đơn vị cơ sở của Đại học Quốc gia Hà Nội có nh...
+rag_answer 50: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Các đơn vị cơ sở của Đại học Quốc gia Hà Nội có những loại nào?
+### Câu trả lời: 
+
+--- Query 51: Đại học Quốc gia Hà Nội có những đơn vị nào thuộc cơ cấu tổ chức? ---
+[Chunk] Tokens: 17 | Text: Đại học Quốc gia Hà Nội có những đơn vị nào thuộc ...
+rag_answer 51: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Đại học Quốc gia Hà Nội có những đơn vị nào thuộc cơ cấu tổ chức?
+### Câu trả lời: 
+
+--- Query 52: Đại học Quốc gia Hà Nội hoạt động theo cơ chế nào? ---
+[Chunk] Tokens: 13 | Text: Đại học Quốc gia Hà Nội hoạt động theo cơ chế nào?...
+rag_answer 52: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Đại học Quốc gia Hà Nội hoạt động theo cơ chế nào?
+### Câu trả lời: 
+
+--- Query 53: Đại học Quốc gia Hà Nội có bao nhiêu cơ quan? ---
+[Chunk] Tokens: 12 | Text: Đại học Quốc gia Hà Nội có bao nhiêu cơ quan?...
+rag_answer 53: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu cơ quan?
+### Câu trả lời: 
+
+--- Query 54: Văn phòng của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 12 | Text: Văn phòng của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 54: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội
+### Câu hỏi: Văn phòng của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 55: Ban nào phụ trách đào tạo và công tác sinh viên tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 19 | Text: Ban nào phụ trách đào tạo và công tác sinh viên tạ...
+rag_answer 55: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Ban nào phụ trách đào tạo và công tác sinh viên tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 56: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 15 | Text: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia ...
+rag_answer 56: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 57: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 15 | Text: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia ...
+rag_answer 57: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 58: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 15 | Text: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia ...
+rag_answer 58: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 59: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 15 | Text: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia ...
+rag_answer 59: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Ban nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 60: Khối nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 16 | Text: Khối nào thuộc cơ cấu tổ chức của Đại học Quốc gia...
+rag_answer 60: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Khối nào thuộc cơ cấu tổ chức của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 61: Trường đại học nào là một thành viên của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 16 | Text: Trường đại học nào là một thành viên của Đại học Q...
+rag_answer 61: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Trường đại học nào là một thành viên của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 62: Trường Đại học thành viên nào thuộc Đại học Quốc gia Hà Nội chuyên về khoa học xã hội và nhân văn? ---
+[Chunk] Tokens: 23 | Text: Trường Đại học thành viên nào thuộc Đại học Quốc g...
+rag_answer 62: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Trường Đại học thành viên nào thuộc Đại học Quốc gia Hà Nội chuyên về khoa học xã hội và nhân văn?
+### Câu trả lời: 
+
+--- Query 63: Trường đại học nào là thành viên của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 15 | Text: Trường đại học nào là thành viên của Đại học Quốc ...
+rag_answer 63: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Trường đại học nào là thành viên của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 64: Trường đại học nào là thành viên của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 15 | Text: Trường đại học nào là thành viên của Đại học Quốc ...
+rag_answer 64: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Trường đại học nào là thành viên của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 65: Trường đại học nào thuộc Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 12 | Text: Trường đại học nào thuộc Đại học Quốc gia Hà Nội?...
+rag_answer 65: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế.
+### Câu hỏi: Trường đại học nào thuộc Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 66: Trường đại học nào thuộc Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 12 | Text: Trường đại học nào thuộc Đại học Quốc gia Hà Nội?...
+rag_answer 66: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế.
+### Câu hỏi: Trường đại học nào thuộc Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 67: Trường nào thuộc Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 10 | Text: Trường nào thuộc Đại học Quốc gia Hà Nội?...
+rag_answer 67: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh
+### Câu hỏi: Trường nào thuộc Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 68: Trường nào thuộc Đại học Quốc gia Hà Nội chuyên về Y Dược? ---
+[Chunk] Tokens: 14 | Text: Trường nào thuộc Đại học Quốc gia Hà Nội chuyên về...
+rag_answer 68: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường ĐH Y Dược Hà NộiTrường ĐH Y Dược Hà NộiTrường ĐH Y Dược
+### Câu hỏi: Trường nào thuộc Đại học Quốc gia Hà Nội chuyên về Y Dược?
+### Câu trả lời: 
+
+--- Query 69: Trường nào là một trong các trường đại học thành viên của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 19 | Text: Trường nào là một trong các trường đại học thành v...
+rag_answer 69: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Trường nào là một trong các trường đại học thành viên của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 70: Trường nào thuộc Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 10 | Text: Trường nào thuộc Đại học Quốc gia Hà Nội?...
+rag_answer 70: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh
+### Câu hỏi: Trường nào thuộc Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 71: Trường nào thuộc Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 10 | Text: Trường nào thuộc Đại học Quốc gia Hà Nội?...
+rag_answer 71: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh
+### Câu hỏi: Trường nào thuộc Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 72: Trường nào thuộc Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 10 | Text: Trường nào thuộc Đại học Quốc gia Hà Nội?...
+rag_answer 72: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh
+### Câu hỏi: Trường nào thuộc Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 73: Bệnh viện trực thuộc Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 13 | Text: Bệnh viện trực thuộc Đại học Quốc gia Hà Nội là gì...
+rag_answer 73: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtBệnh viện trực thuộc 01Bệnh viện Đại học Quốc gia Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtBệnh viện trực thuộc 01Bệnh viện Đại học Quốc gia Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtBệnh viện trực thuộc 01Bệnh viện Đại học Quốc gia Hà Nội
+### Câu hỏi: Bệnh viện trực thuộc Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 74: Trung tâm nào thuộc Đại học Quốc gia Hà Nội chuyên về giáo dục thể chất và thể thao? ---
+[Chunk] Tokens: 20 | Text: Trung tâm nào thuộc Đại học Quốc gia Hà Nội chuyên...
+rag_answer 74: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh
+### Câu hỏi: Trung tâm nào thuộc Đại học Quốc gia Hà Nội chuyên về giáo dục thể chất và thể thao?
+### Câu trả lời: 
+
+--- Query 75: Trung tâm nào thuộc Đại học Quốc gia Hà Nội chuyên về giáo dục quốc phòng và an ninh? ---
+[Chunk] Tokens: 20 | Text: Trung tâm nào thuộc Đại học Quốc gia Hà Nội chuyên...
+rag_answer 75: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh
+### Câu hỏi: Trung tâm nào thuộc Đại học Quốc gia Hà Nội chuyên về giáo dục quốc phòng và an ninh?
+### Câu trả lời: 
+
+--- Query 76: Các đơn vị nghiên cứu của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 15 | Text: Các đơn vị nghiên cứu của Đại học Quốc gia Hà Nội ...
+rag_answer 76: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Các đơn vị nghiên cứu của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 77: Đơn vị nghiên cứu nào thuộc Đại học Quốc gia Hà Nội chuyên về chuyển giao tri thức và hỗ trợ khởi nghiệp? ---
+[Chunk] Tokens: 24 | Text: Đơn vị nghiên cứu nào thuộc Đại học Quốc gia Hà Nộ...
+rag_answer 77: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế.
+### Câu hỏi: Đơn vị nghiên cứu nào thuộc Đại học Quốc gia Hà Nội chuyên về chuyển giao tri thức và hỗ trợ khởi nghiệp?
+### Câu trả lời: 
+
+--- Query 78: Đại học Quốc gia Hà Nội có những đơn vị đào tạo nào ngoài bậc đại học và sau đại học? ---
+[Chunk] Tokens: 22 | Text: Đại học Quốc gia Hà Nội có những đơn vị đào tạo nà...
+rag_answer 78: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác đơn vị đào tạo khác 05Ngoài các đơn vị đào tạo bậc đại học và sau đại học, Đại học Quốc gia Hà Nội còn có các đơn vị đào tạo bậc phổ thông trực thuộc các trường đại học thành viên, bao gồm Trường THPT chuyê Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác đơn vị đào tạo khác 05Ngoài các đơn vị đào tạo bậc đại học và sau đại học, Đại học Quốc gia Hà Nội còn có các đơn vị đào tạo bậc phổ thông trực thuộc các trường đại học thành viên, bao gồm Trường THPT chuyê Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác đơn vị đào tạo khác 05Ngoài các đơn vị đào tạo bậc đại học và sau đại học, Đại học Quốc gia Hà Nội còn có các đơn vị đào tạo bậc phổ thông trực thuộc các trường đại học thành viên, bao gồm Trường THPT chuyê
+### Câu hỏi: Đại học Quốc gia Hà Nội có những đơn vị đào tạo nào ngoài bậc đại học và sau đại học?
+### Câu trả lời: 
+
+--- Query 79: Trường THPT chuyên Khoa học Tự nhiên thuộc trường nào? ---
+[Chunk] Tokens: 11 | Text: Trường THPT chuyên Khoa học Tự nhiên thuộc trường ...
+rag_answer 79: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Trường THPT chuyên Khoa học Tự nhiên thuộc trường nào?
+### Câu trả lời: 
+
+--- Query 80: Trường THPT chuyên nào thuộc Trường Đại học Khoa học Xã hội và Nhân văn? ---
+[Chunk] Tokens: 16 | Text: Trường THPT chuyên nào thuộc Trường Đại học Khoa h...
+rag_answer 80: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Trường THPT chuyên nào thuộc Trường Đại học Khoa học Xã hội và Nhân văn?
+### Câu trả lời: 
+
+--- Query 81: Trường THPT chuyên Ngoại ngữ thuộc đơn vị nào? ---
+[Chunk] Tokens: 10 | Text: Trường THPT chuyên Ngoại ngữ thuộc đơn vị nào?...
+rag_answer 81: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ. Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ. Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ.
+### Câu hỏi: Trường THPT chuyên Ngoại ngữ thuộc đơn vị nào?
+### Câu trả lời: 
+
+--- Query 82: Trường THPT nào thuộc Trường Đại học Giáo dục? ---
+[Chunk] Tokens: 10 | Text: Trường THPT nào thuộc Trường Đại học Giáo dục?...
+rag_answer 82: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường ĐH Giáo dục Trường ĐH Giáo dục Trường ĐH Giáo dục
+### Câu hỏi: Trường THPT nào thuộc Trường Đại học Giáo dục?
+### Câu trả lời: 
+
+--- Query 83: Trường THCS Ngoại ngữ thuộc đơn vị nào? ---
+[Chunk] Tokens: 10 | Text: Trường THCS Ngoại ngữ thuộc đơn vị nào?...
+rag_answer 83: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ. Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ. Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ.
+### Câu hỏi: Trường THCS Ngoại ngữ thuộc đơn vị nào?
+### Câu trả lời: 
+
+--- Query 84: Đơn vị nào hỗ trợ và cung cấp dịch vụ thư viện tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 20 | Text: Đơn vị nào hỗ trợ và cung cấp dịch vụ thư viện tại...
+rag_answer 84: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Đơn vị nào hỗ trợ và cung cấp dịch vụ thư viện tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 85: Đơn vị nào hỗ trợ kiểm định chất lượng giáo dục tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 19 | Text: Đơn vị nào hỗ trợ kiểm định chất lượng giáo dục tạ...
+rag_answer 85: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh
+### Câu hỏi: Đơn vị nào hỗ trợ kiểm định chất lượng giáo dục tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 86: Đơn vị nào hỗ trợ và cung cấp dịch vụ tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 18 | Text: Đơn vị nào hỗ trợ và cung cấp dịch vụ tại Đại học ...
+rag_answer 86: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Đơn vị nào hỗ trợ và cung cấp dịch vụ tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 87: Nhà Xuất bản nào thuộc Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 12 | Text: Nhà Xuất bản nào thuộc Đại học Quốc gia Hà Nội?...
+rag_answer 87: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: 16 phố Hàng Chuối Nhà xuất bản Đại học Quốc gia Hà Nội 16 phố Hàng Chuối Nhà xuất bản Đại học Quốc gia Hà Nội 16 phố Hàng Chuối Nhà xuất bản Đại học Quốc gia Hà Nội
+### Câu hỏi: Nhà Xuất bản nào thuộc Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 88: Đại học Quốc gia Hà Nội có đơn vị hỗ trợ nào liên quan đến tạp chí khoa học? ---
+[Chunk] Tokens: 20 | Text: Đại học Quốc gia Hà Nội có đơn vị hỗ trợ nào liên ...
+rag_answer 88: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Đại học Quốc gia Hà Nội có đơn vị hỗ trợ nào liên quan đến tạp chí khoa học?
+### Câu trả lời: 
+
+--- Query 89: Đơn vị nào thuộc Đại học Quốc gia Hà Nội chuyên về đào tạo số và khảo thí? ---
+[Chunk] Tokens: 19 | Text: Đơn vị nào thuộc Đại học Quốc gia Hà Nội chuyên về...
+rag_answer 89: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh
+### Câu hỏi: Đơn vị nào thuộc Đại học Quốc gia Hà Nội chuyên về đào tạo số và khảo thí?
+### Câu trả lời: 
+
+--- Query 90: Đơn vị nào thuộc các đơn vị hỗ trợ và dịch vụ của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 20 | Text: Đơn vị nào thuộc các đơn vị hỗ trợ và dịch vụ của ...
+rag_answer 90: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Đơn vị nào thuộc các đơn vị hỗ trợ và dịch vụ của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 91: Đơn vị nào hỗ trợ trong dự án "Phát triển các đại học quốc gia Việt Nam – Tiểu Dự án ĐHQGHN"? ---
+[Chunk] Tokens: 28 | Text: Đơn vị nào hỗ trợ trong dự án "Phát triển các đại ...
+rag_answer 91: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác đơn vị hỗ trợ và dịch vụ 08Trung tâm Thư viện và Tri thức số, Trung tâm Kiểm định Chất lượng giáo dục, Trung tâm Quản lý đô thị đại học, Nhà Xuất bản Đại học Quốc gia Hà Nội, Tạp chí Khoa học ĐHQGHN, Viện Đ Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác đơn vị hỗ trợ và dịch vụ 08Trung tâm Thư viện và Tri thức số, Trung tâm Kiểm định Chất lượng giáo dục, Trung tâm Quản lý đô thị đại học, Nhà Xuất bản Đại học Quốc gia Hà Nội, Tạp chí Khoa học ĐHQGHN, Viện Đ Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác đơn vị hỗ trợ và dịch vụ 08Trung tâm Thư viện và Tri thức số, Trung tâm Kiểm định Chất lượng giáo dục, Trung tâm Quản lý đô thị đại học, Nhà Xuất bản Đại học Quốc gia Hà Nội, Tạp chí Khoa học ĐHQGHN, Viện Đ
+### Câu hỏi: Đơn vị nào hỗ trợ trong dự án "Phát triển các đại học quốc gia Việt Nam – Tiểu Dự án ĐHQGHN"?
+### Câu trả lời: 
+
+--- Query 92: Có bao nhiêu đơn vị thực hiện nhiệm vụ đặc biệt tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 19 | Text: Có bao nhiêu đơn vị thực hiện nhiệm vụ đặc biệt tạ...
+rag_answer 92: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Có bao nhiêu đơn vị thực hiện nhiệm vụ đặc biệt tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 93: Đơn vị nào hỗ trợ nghiên cứu tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 15 | Text: Đơn vị nào hỗ trợ nghiên cứu tại Đại học Quốc gia ...
+rag_answer 93: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Đơn vị nào hỗ trợ nghiên cứu tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 94: Đơn vị nào hỗ trợ Đại học Quốc gia Hà Nội và ĐH Arizona? ---
+[Chunk] Tokens: 15 | Text: Đơn vị nào hỗ trợ Đại học Quốc gia Hà Nội và ĐH Ar...
+rag_answer 94: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrung tâm Hỗ trợ Đào tạo và Phát triểnđô thị đại học Hà NộiTrung tâm Hỗ trợ Đào tạo và Phát triểnđô thị đại học Hà NộiTrung tâm Hỗ trợ Đào tạo và Phát triểnđô thị đại học
+### Câu hỏi: Đơn vị nào hỗ trợ Đại học Quốc gia Hà Nội và ĐH Arizona?
+### Câu trả lời: 
+
+--- Query 95: Đơn vị nào hỗ trợ các chương trình khoa học và công nghệ trọng điểm tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 23 | Text: Đơn vị nào hỗ trợ các chương trình khoa học và côn...
+rag_answer 95: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ cấu tổ chứcĐại học Quốc gia Hà Nội có cơ cấu tổ chức đặc biệt so với các trường đại học khác ởViệt Nam gồm 3 cấpquản lý hành chính] Đại học Quốc gia Hà Nội là đầu mối đượcChính phủgiao các chỉ tiêu, kế hoạch
+### Câu hỏi: Đơn vị nào hỗ trợ các chương trình khoa học và công nghệ trọng điểm tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 96: Đơn vị nào hỗ trợ và cung cấp dịch vụ tại Đại học Quốc gia Hà Nội liên quan đến phát triển tư liệu Việt Nam học? ---
+[Chunk] Tokens: 28 | Text: Đơn vị nào hỗ trợ và cung cấp dịch vụ tại Đại học ...
+rag_answer 96: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Đơn vị nào hỗ trợ và cung cấp dịch vụ tại Đại học Quốc gia Hà Nội liên quan đến phát triển tư liệu Việt Nam học?
+### Câu trả lời: 
+
+--- Query 97: Đại học Quốc gia Hà Nội có quỹ nào hỗ trợ phát triển khoa học và công nghệ? ---
+[Chunk] Tokens: 19 | Text: Đại học Quốc gia Hà Nội có quỹ nào hỗ trợ phát tri...
+rag_answer 97: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Đại học Quốc gia Hà Nội có quỹ nào hỗ trợ phát triển khoa học và công nghệ?
+### Câu trả lời: 
+
+--- Query 98: Quỹ phát triển của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 14 | Text: Quỹ phát triển của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 98: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtĐào tạoĐại học Quốc gia Hà Nội là trung tâm đào tạo, nghiên cứu khoa học, công nghệ đa ngành, đa lĩnh vực chất lượng cao, được Nhà nước ưu tiên đầu tư phát triển
+### Câu hỏi: Quỹ phát triển của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 99: Câu lạc bộ nào thuộc Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 12 | Text: Câu lạc bộ nào thuộc Đại học Quốc gia Hà Nội?...
+rag_answer 99: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác trung tâm đào tạo trực thuộc 02Trung tâm Giáo dục Thể chất và Thể thao, Trung tâm Giáo dục Quốc phòng và An ninh
+### Câu hỏi: Câu lạc bộ nào thuộc Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 100: Câu lạc bộ nào hỗ trợ sinh viên tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 16 | Text: Câu lạc bộ nào hỗ trợ sinh viên tại Đại học Quốc g...
+rag_answer 100: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Câu lạc bộ nào hỗ trợ sinh viên tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 101: Câu lạc bộ nào hỗ trợ cho cựu sinh viên doanh nhân tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 21 | Text: Câu lạc bộ nào hỗ trợ cho cựu sinh viên doanh nhân...
+rag_answer 101: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế. Hà NộiThuộcTrường Đại học Kinh tế.
+### Câu hỏi: Câu lạc bộ nào hỗ trợ cho cựu sinh viên doanh nhân tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 102: Ai là người bổ nhiệm hiệu trưởng các trường đại học thành viên và thủ trưởng các đơn vị trực thuộc của Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 29 | Text: Ai là người bổ nhiệm hiệu trưởng các trường đại họ...
+rag_answer 102: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtNhân sựHiệu trưởng các trường đại học thành viên, thủ trưởng các đơn vị trực thuộc do Giám đốc Đại học Quốc gia Hà Nội bổ nhiệm
+### Câu hỏi: Ai là người bổ nhiệm hiệu trưởng các trường đại học thành viên và thủ trưởng các đơn vị trực thuộc của Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 103: Đại học Quốc gia Hà Nội hiện có bao nhiêu giảng viên và nhân viên? ---
+[Chunk] Tokens: 16 | Text: Đại học Quốc gia Hà Nội hiện có bao nhiêu giảng vi...
+rag_answer 103: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Đại học Quốc gia Hà Nội hiện có bao nhiêu giảng viên và nhân viên?
+### Câu trả lời: 
+
+--- Query 104: Đại học Quốc gia Hà Nội có bao nhiêu giáo sư? ---
+[Chunk] Tokens: 12 | Text: Đại học Quốc gia Hà Nội có bao nhiêu giáo sư?...
+rag_answer 104: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu giáo sư?
+### Câu trả lời: 
+
+--- Query 105: Có bao nhiêu Phó Giáo sư tại Đại học Quốc gia Hà Nội? ---
+[Chunk] Tokens: 14 | Text: Có bao nhiêu Phó Giáo sư tại Đại học Quốc gia Hà N...
+rag_answer 105: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Có bao nhiêu Phó Giáo sư tại Đại học Quốc gia Hà Nội?
+### Câu trả lời: 
+
+--- Query 106: Đại học Quốc gia Hà Nội có bao nhiêu Tiến sĩ và Tiến sĩ khoa học? ---
+[Chunk] Tokens: 17 | Text: Đại học Quốc gia Hà Nội có bao nhiêu Tiến sĩ và Ti...
+rag_answer 106: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu Tiến sĩ và Tiến sĩ khoa học?
+### Câu trả lời: 
+
+--- Query 107: Đại học Quốc gia Hà Nội có bao nhiêu thạc sĩ? ---
+[Chunk] Tokens: 13 | Text: Đại học Quốc gia Hà Nội có bao nhiêu thạc sĩ?...
+rag_answer 107: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu thạc sĩ?
+### Câu trả lời: 
+
+--- Query 108: Tại Đại học Quốc gia Hà Nội, tỷ lệ giảng viên có học vị thạc sĩ trở lên là bao nhiêu? ---
+[Chunk] Tokens: 24 | Text: Tại Đại học Quốc gia Hà Nội, tỷ lệ giảng viên có h...
+rag_answer 108: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông  Đại học Quốc gia Hà Nội hiện có khoảng 4.393 giảng viên và nhân viên] là đại học có số lượng GS, PGS, TSKH, TS hàng đầu tại Việt Nam với 62Giáo sư, 346 Phó Giáo sư, 1.451Tiến sĩvàTiến sĩ khoa học, 1.709Thạc sĩ Đại học Quốc gia Hà Nội là nơi tập trung đông 
+### Câu hỏi: Tại Đại học Quốc gia Hà Nội, tỷ lệ giảng viên có học vị thạc sĩ trở lên là bao nhiêu?
+### Câu trả lời: 
+
+--- Query 109: Đại học Quốc gia Hà Nội hiện đang triển khai những chương trình đào tạo thuộc các lĩnh vực nào? ---
+[Chunk] Tokens: 21 | Text: Đại học Quốc gia Hà Nội hiện đang triển khai những...
+rag_answer 109: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr
+### Câu hỏi: Đại học Quốc gia Hà Nội hiện đang triển khai những chương trình đào tạo thuộc các lĩnh vực nào?
+### Câu trả lời: 
+
+--- Query 110: Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo đại học? ---
+[Chunk] Tokens: 16 | Text: Đại học Quốc gia Hà Nội có bao nhiêu chương trình ...
+rag_answer 110: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo đại học?
+### Câu trả lời: 
+
+--- Query 111: Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo thạc sĩ? ---
+[Chunk] Tokens: 17 | Text: Đại học Quốc gia Hà Nội có bao nhiêu chương trình ...
+rag_answer 111: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo thạc sĩ?
+### Câu trả lời: 
+
+--- Query 112: Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo tiến sĩ? ---
+[Chunk] Tokens: 16 | Text: Đại học Quốc gia Hà Nội có bao nhiêu chương trình ...
+rag_answer 112: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo tiến sĩ?
+### Câu trả lời: 
+
+--- Query 113: Có bao nhiêu chương trình đào tạo tại Đại học Quốc gia Hà Nội đã được kiểm định AUN? ---
+[Chunk] Tokens: 21 | Text: Có bao nhiêu chương trình đào tạo tại Đại học Quốc...
+rag_answer 113: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr
+### Câu hỏi: Có bao nhiêu chương trình đào tạo tại Đại học Quốc gia Hà Nội đã được kiểm định AUN?
+### Câu trả lời: 
+
+--- Query 114: Đại học Quốc gia Hà Nội có bao nhiêu chương trình liên kết đào tạo quốc tế? ---
+[Chunk] Tokens: 18 | Text: Đại học Quốc gia Hà Nội có bao nhiêu chương trình ...
+rag_answer 114: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr Hiện tại,Đại học Quốc gia Hà Nội đang triển khai nhiều chương trình đào tạo thuộc các lĩnh vực khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ, công nghệ, kinh tế, giáo dục, liên ngành,..., bao gồm 140 chương trình đào tạo đại học], 187 chương tr
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu chương trình liên kết đào tạo quốc tế?
+### Câu trả lời: 
+
+--- Query 115: Đại học Quốc gia Hà Nội có bao nhiêu cơ sở? ---
+[Chunk] Tokens: 12 | Text: Đại học Quốc gia Hà Nội có bao nhiêu cơ sở?...
+rag_answer 115: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội có bao nhiêu cơ sở?
+### Câu trả lời: 
+
+--- Query 116: Các trường đại học nào thuộc quận Cầu Giấy, Hà Nội? ---
+[Chunk] Tokens: 13 | Text: Các trường đại học nào thuộc quận Cầu Giấy, Hà Nội...
+rag_answer 116: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Các trường đại học nào thuộc quận Cầu Giấy, Hà Nội?
+### Câu trả lời: 
+
+--- Query 117: Địa chỉ của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 12 | Text: Địa chỉ của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 117: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội
+### Câu hỏi: Địa chỉ của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 118: Cơ sở duy nhất của Trường Đại học Ngoại ngữ nằm ở đâu? ---
+[Chunk] Tokens: 14 | Text: Cơ sở duy nhất của Trường Đại học Ngoại ngữ nằm ở ...
+rag_answer 118: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ. Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ. Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ.
+### Câu hỏi: Cơ sở duy nhất của Trường Đại học Ngoại ngữ nằm ở đâu?
+### Câu trả lời: 
+
+--- Query 119: Địa chỉ của Khoa Răng Hàm Mặt thuộc Trường Đại học Y Dược Hà Nội là gì? ---
+[Chunk] Tokens: 20 | Text: Địa chỉ của Khoa Răng Hàm Mặt thuộc Trường Đại học...
+rag_answer 119: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiKhoa Răng Hàm Mặt Hà NộiKhoa Răng Hàm Mặt Hà NộiKhoa Răng Hàm Mặt
+### Câu hỏi: Địa chỉ của Khoa Răng Hàm Mặt thuộc Trường Đại học Y Dược Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 120: Địa chỉ của cơ sở thuộc Trường Đại học Kinh tế tại Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 21 | Text: Địa chỉ của cơ sở thuộc Trường Đại học Kinh tế tại...
+rag_answer 120: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội
+### Câu hỏi: Địa chỉ của cơ sở thuộc Trường Đại học Kinh tế tại Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 121: Khoa nào thuộc Trường Đại học Khoa học Tự nhiên tại quận Hoàn Kiếm, Hà Nội? ---
+[Chunk] Tokens: 18 | Text: Khoa nào thuộc Trường Đại học Khoa học Tự nhiên tạ...
+rag_answer 121: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Khoa nào thuộc Trường Đại học Khoa học Tự nhiên tại quận Hoàn Kiếm, Hà Nội?
+### Câu trả lời: 
+
+--- Query 122: Khoa nào thuộc Trường Đại học Khoa học Tự nhiên tại địa chỉ 19 Lê Thánh Tông, Hoàn Kiếm, Hà Nội? ---
+[Chunk] Tokens: 25 | Text: Khoa nào thuộc Trường Đại học Khoa học Tự nhiên tạ...
+rag_answer 122: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Khoa nào thuộc Trường Đại học Khoa học Tự nhiên tại địa chỉ 19 Lê Thánh Tông, Hoàn Kiếm, Hà Nội?
+### Câu trả lời: 
+
+--- Query 123: Các cơ sở của Đại học Quốc gia Hà Nội ở quận Thanh Xuân bao gồm những địa chỉ nào? ---
+[Chunk] Tokens: 21 | Text: Các cơ sở của Đại học Quốc gia Hà Nội ở quận Thanh...
+rag_answer 123: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Các cơ sở của Đại học Quốc gia Hà Nội ở quận Thanh Xuân bao gồm những địa chỉ nào?
+### Câu trả lời: 
+
+--- Query 124: Địa chỉ của Trường Đại học Khoa học Tự nhiên thuộc Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 20 | Text: Địa chỉ của Trường Đại học Khoa học Tự nhiên thuộc...
+rag_answer 124: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Địa chỉ của Trường Đại học Khoa học Tự nhiên thuộc Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 125: Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân văn là gì? ---
+[Chunk] Tokens: 16 | Text: Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân...
+rag_answer 125: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân văn là gì?
+### Câu trả lời: 
+
+--- Query 126: Đại học Quốc gia Hà Nội có cơ sở nào tại 182 đường Lương Thế Vinh, Thanh Xuân, Hà Nội? ---
+[Chunk] Tokens: 23 | Text: Đại học Quốc gia Hà Nội có cơ sở nào tại 182 đường...
+rag_answer 126: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội có cơ sở nào tại 182 đường Lương Thế Vinh, Thanh Xuân, Hà Nội?
+### Câu trả lời: 
+
+--- Query 127: Bệnh viện Đại học Y Dược, ĐHQGHN nằm ở đâu? ---
+[Chunk] Tokens: 15 | Text: Bệnh viện Đại học Y Dược, ĐHQGHN nằm ở đâu?...
+rag_answer 127: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Bệnh viện ĐHQGHN Bệnh viện ĐHQGHN Bệnh viện ĐHQGHN
+### Câu hỏi: Bệnh viện Đại học Y Dược, ĐHQGHN nằm ở đâu?
+### Câu trả lời: 
+
+--- Query 128: Các cơ sở của Đại học Quốc gia Hà Nội ở quận Hai Bà Trưng nằm ở đâu? ---
+[Chunk] Tokens: 19 | Text: Các cơ sở của Đại học Quốc gia Hà Nội ở quận Hai B...
+rag_answer 128: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Các cơ sở của Đại học Quốc gia Hà Nội ở quận Hai Bà Trưng nằm ở đâu?
+### Câu trả lời: 
+
+--- Query 129: Địa chỉ của Nhà xuất bản Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 15 | Text: Địa chỉ của Nhà xuất bản Đại học Quốc gia Hà Nội l...
+rag_answer 129: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội
+### Câu hỏi: Địa chỉ của Nhà xuất bản Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 130: Khoa nào thuộc Trường Đại học Khoa học Xã hội và Nhân văn tại Đại học Quốc gia Hà Nội nằm ở B7bis phố Trần Đại Nghĩa? ---
+[Chunk] Tokens: 32 | Text: Khoa nào thuộc Trường Đại học Khoa học Xã hội và N...
+rag_answer 130: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: B7bis phố Trần Đại Nghĩa KhoaViệt Nam họcvà Tiếng Việt –Trường Đại học Khoa học Xã hội và Nhân văn B7bis phố Trần Đại Nghĩa KhoaViệt Nam họcvà Tiếng Việt –Trường Đại học Khoa học Xã hội và Nhân văn B7bis phố Trần Đại Nghĩa KhoaViệt Nam họcvà Tiếng Việt –Trường Đại học Khoa học Xã hội và Nhân văn
+### Câu hỏi: Khoa nào thuộc Trường Đại học Khoa học Xã hội và Nhân văn tại Đại học Quốc gia Hà Nội nằm ở B7bis phố Trần Đại Nghĩa?
+### Câu trả lời: 
+
+--- Query 131: Đại học Quốc gia Hà Nội có cơ sở nào tại Hòa Lạc? ---
+[Chunk] Tokens: 14 | Text: Đại học Quốc gia Hà Nội có cơ sở nào tại Hòa Lạc?...
+rag_answer 131: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ sở Hòa LạcNgày 27 tháng 1 năm 1995, Thủ tướng Chính phủ có Quyết định số 72/TTg về địa điểm Đại học Quốc gia Hà Nội vàĐại học Quốc gia Thành phố Hồ Chí Minh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ sở Hòa LạcNgày 27 tháng 1 năm 1995, Thủ tướng Chính phủ có Quyết định số 72/TTg về địa điểm Đại học Quốc gia Hà Nội vàĐại học Quốc gia Thành phố Hồ Chí Minh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ sở Hòa LạcNgày 27 tháng 1 năm 1995, Thủ tướng Chính phủ có Quyết định số 72/TTg về địa điểm Đại học Quốc gia Hà Nội vàĐại học Quốc gia Thành phố Hồ Chí Minh
+### Câu hỏi: Đại học Quốc gia Hà Nội có cơ sở nào tại Hòa Lạc?
+### Câu trả lời: 
+
+--- Query 132: Đại học Quốc gia Hà Nội có những cơ sở nào tại xã Thạch Hoà, huyện Thạch Thất, Hà Nội? ---
+[Chunk] Tokens: 28 | Text: Đại học Quốc gia Hà Nội có những cơ sở nào tại xã ...
+rag_answer 132: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội có những cơ sở nào tại xã Thạch Hoà, huyện Thạch Thất, Hà Nội?
+### Câu trả lời: 
+
+--- Query 133: Đại học Quốc gia Hà Nội có cơ sở nào tại Ba Vì? ---
+[Chunk] Tokens: 14 | Text: Đại học Quốc gia Hà Nội có cơ sở nào tại Ba Vì?...
+rag_answer 133: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội có cơ sở nào tại Ba Vì?
+### Câu trả lời: 
+
+--- Query 134: Trung tâm Hỗ trợ Đào tạo và Phát triển đô thị đại học của Đại học Quốc gia Hà Nội nằm ở đâu? ---
+[Chunk] Tokens: 24 | Text: Trung tâm Hỗ trợ Đào tạo và Phát triển đô thị đại ...
+rag_answer 134: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrung tâm Hỗ trợ Đào tạo và Phát triểnđô thị đại học Hà NộiTrung tâm Hỗ trợ Đào tạo và Phát triểnđô thị đại học Hà NộiTrung tâm Hỗ trợ Đào tạo và Phát triểnđô thị đại học
+### Câu hỏi: Trung tâm Hỗ trợ Đào tạo và Phát triển đô thị đại học của Đại học Quốc gia Hà Nội nằm ở đâu?
+### Câu trả lời: 
+
+--- Query 135: Đại học Quốc gia Hà Nội có cơ sở nào ở quận Nam Từ Liêm? ---
+[Chunk] Tokens: 17 | Text: Đại học Quốc gia Hà Nội có cơ sở nào ở quận Nam Từ...
+rag_answer 135: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội có cơ sở nào ở quận Nam Từ Liêm?
+### Câu trả lời: 
+
+--- Query 136: Ký túc xá Mỹ Đình thuộc Đại học Quốc gia Hà Nội nằm ở đâu? ---
+[Chunk] Tokens: 18 | Text: Ký túc xá Mỹ Đình thuộc Đại học Quốc gia Hà Nội nằ...
+rag_answer 136: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiKý túc xá Mỹ Đình Hà NộiKý túc xá Mỹ Đình Hà NộiKý túc xá Mỹ Đình
+### Câu hỏi: Ký túc xá Mỹ Đình thuộc Đại học Quốc gia Hà Nội nằm ở đâu?
+### Câu trả lời: 
+
+--- Query 137: Cơ sở nào thuộc Trường Đại học Việt Nhật? ---
+[Chunk] Tokens: 10 | Text: Cơ sở nào thuộc Trường Đại học Việt Nhật?...
+rag_answer 137: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộithuộcTrường Đại học Việt Nhật. Hà NộithuộcTrường Đại học Việt Nhật. Hà NộithuộcTrường Đại học Việt Nhật.
+### Câu hỏi: Cơ sở nào thuộc Trường Đại học Việt Nhật?
+### Câu trả lời: 
+
+--- Query 138: Địa chỉ của Trường Khoa học Liên ngành và Nghệ thuật thuộc Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 21 | Text: Địa chỉ của Trường Khoa học Liên ngành và Nghệ thu...
+rag_answer 138: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà Nội thuộcTrường Khoa học Liên ngành và Nghệ thuật Hà Nội thuộcTrường Khoa học Liên ngành và Nghệ thuật Hà Nội thuộcTrường Khoa học Liên ngành và Nghệ thuật
+### Câu hỏi: Địa chỉ của Trường Khoa học Liên ngành và Nghệ thuật thuộc Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 139: Địa chỉ của Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 12 | Text: Địa chỉ của Đại học Quốc gia Hà Nội là gì?...
+rag_answer 139: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội
+### Câu hỏi: Địa chỉ của Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 140: Cơ sở duy nhất của Trường Đại học Ngoại ngữ nằm ở đâu? ---
+[Chunk] Tokens: 14 | Text: Cơ sở duy nhất của Trường Đại học Ngoại ngữ nằm ở ...
+rag_answer 140: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ. Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ. Hà NộiCơ sở duy nhất củaTrường Đại học Ngoại ngữ.
+### Câu hỏi: Cơ sở duy nhất của Trường Đại học Ngoại ngữ nằm ở đâu?
+### Câu trả lời: 
+
+--- Query 141: Địa chỉ của Khoa Răng Hàm Mặt thuộc Trường Đại học Y Dược, Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 25 | Text: Địa chỉ của Khoa Răng Hàm Mặt thuộc Trường Đại học...
+rag_answer 141: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiKhoa Răng Hàm Mặt Hà NộiKhoa Răng Hàm Mặt Hà NộiKhoa Răng Hàm Mặt
+### Câu hỏi: Địa chỉ của Khoa Răng Hàm Mặt thuộc Trường Đại học Y Dược, Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 142: Địa chỉ của cơ sở thuộc Trường Đại học Kinh tế tại Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 21 | Text: Địa chỉ của cơ sở thuộc Trường Đại học Kinh tế tại...
+rag_answer 142: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội
+### Câu hỏi: Địa chỉ của cơ sở thuộc Trường Đại học Kinh tế tại Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 143: Địa chỉ của Khoa Hóa học thuộc Trường Đại học Khoa học Tự nhiên tại Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 24 | Text: Địa chỉ của Khoa Hóa học thuộc Trường Đại học Khoa...
+rag_answer 143: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà Nội Khoa Hóa học -Trường Đại học Khoa học Tự nhiên Hà Nội Khoa Hóa học -Trường Đại học Khoa học Tự nhiên Hà Nội Khoa Hóa học -Trường Đại học Khoa học Tự nhiên
+### Câu hỏi: Địa chỉ của Khoa Hóa học thuộc Trường Đại học Khoa học Tự nhiên tại Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 144: Địa chỉ của Trường Đại học Khoa học Tự nhiên thuộc Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 20 | Text: Địa chỉ của Trường Đại học Khoa học Tự nhiên thuộc...
+rag_answer 144: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên Hà NộiTrường Đại học Khoa học Tự nhiên
+### Câu hỏi: Địa chỉ của Trường Đại học Khoa học Tự nhiên thuộc Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 145: Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân văn là gì? ---
+[Chunk] Tokens: 16 | Text: Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân...
+rag_answer 145: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân văn là gì?
+### Câu trả lời: 
+
+--- Query 146: Đại học Quốc gia Hà Nội có địa chỉ nào tại Thanh Xuân, Hà Nội? ---
+[Chunk] Tokens: 17 | Text: Đại học Quốc gia Hà Nội có địa chỉ nào tại Thanh X...
+rag_answer 146: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội có địa chỉ nào tại Thanh Xuân, Hà Nội?
+### Câu trả lời: 
+
+--- Query 147: Bệnh viện Đại học Y Dược, ĐHQGHN nằm ở đâu? ---
+[Chunk] Tokens: 15 | Text: Bệnh viện Đại học Y Dược, ĐHQGHN nằm ở đâu?...
+rag_answer 147: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Bệnh viện ĐHQGHN Bệnh viện ĐHQGHN Bệnh viện ĐHQGHN
+### Câu hỏi: Bệnh viện Đại học Y Dược, ĐHQGHN nằm ở đâu?
+### Câu trả lời: 
+
+--- Query 148: Địa chỉ của Nhà xuất bản Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 15 | Text: Địa chỉ của Nhà xuất bản Đại học Quốc gia Hà Nội l...
+rag_answer 148: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội
+### Câu hỏi: Địa chỉ của Nhà xuất bản Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 149: Khoa nào thuộc Trường Đại học Khoa học Xã hội và Nhân văn tại B7bis phố Trần Đại Nghĩa? ---
+[Chunk] Tokens: 24 | Text: Khoa nào thuộc Trường Đại học Khoa học Xã hội và N...
+rag_answer 149: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: B7bis phố Trần Đại Nghĩa KhoaViệt Nam họcvà Tiếng Việt –Trường Đại học Khoa học Xã hội và Nhân văn B7bis phố Trần Đại Nghĩa KhoaViệt Nam họcvà Tiếng Việt –Trường Đại học Khoa học Xã hội và Nhân văn B7bis phố Trần Đại Nghĩa KhoaViệt Nam họcvà Tiếng Việt –Trường Đại học Khoa học Xã hội và Nhân văn
+### Câu hỏi: Khoa nào thuộc Trường Đại học Khoa học Xã hội và Nhân văn tại B7bis phố Trần Đại Nghĩa?
+### Câu trả lời: 
+
+--- Query 150: Đại học Quốc gia Hà Nội có những cơ sở nào tại xã Thạch Hòa, huyện Thạch Thất, Hà Nội? ---
+[Chunk] Tokens: 27 | Text: Đại học Quốc gia Hà Nội có những cơ sở nào tại xã ...
+rag_answer 150: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCác cơ sởĐại học Quốc gia Hà Nội có 7 cơ sở tại Quận Cầu Giấy144 Xuân Thủy
+### Câu hỏi: Đại học Quốc gia Hà Nội có những cơ sở nào tại xã Thạch Hòa, huyện Thạch Thất, Hà Nội?
+### Câu trả lời: 
+
+--- Query 151: Trung tâm Hỗ trợ Đào tạo và Phát triển đô thị đại học của Đại học Quốc gia Hà Nội nằm ở đâu? ---
+[Chunk] Tokens: 24 | Text: Trung tâm Hỗ trợ Đào tạo và Phát triển đô thị đại ...
+rag_answer 151: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiTrung tâm Hỗ trợ Đào tạo và Phát triểnđô thị đại học Hà NộiTrung tâm Hỗ trợ Đào tạo và Phát triểnđô thị đại học Hà NộiTrung tâm Hỗ trợ Đào tạo và Phát triểnđô thị đại học
+### Câu hỏi: Trung tâm Hỗ trợ Đào tạo và Phát triển đô thị đại học của Đại học Quốc gia Hà Nội nằm ở đâu?
+### Câu trả lời: 
+
+--- Query 152: Ký túc xá Mỹ Đình thuộc địa chỉ nào? ---
+[Chunk] Tokens: 12 | Text: Ký túc xá Mỹ Đình thuộc địa chỉ nào?...
+rag_answer 152: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộiKý túc xá Mỹ Đình Hà NộiKý túc xá Mỹ Đình Hà NộiKý túc xá Mỹ Đình
+### Câu hỏi: Ký túc xá Mỹ Đình thuộc địa chỉ nào?
+### Câu trả lời: 
+
+--- Query 153: Cơ sở nào thuộc Trường Đại học Việt Nhật? ---
+[Chunk] Tokens: 10 | Text: Cơ sở nào thuộc Trường Đại học Việt Nhật?...
+rag_answer 153: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà NộithuộcTrường Đại học Việt Nhật. Hà NộithuộcTrường Đại học Việt Nhật. Hà NộithuộcTrường Đại học Việt Nhật.
+### Câu hỏi: Cơ sở nào thuộc Trường Đại học Việt Nhật?
+### Câu trả lời: 
+
+--- Query 154: Địa chỉ của Trường Khoa học Liên ngành và Nghệ thuật thuộc Đại học Quốc gia Hà Nội là gì? ---
+[Chunk] Tokens: 21 | Text: Địa chỉ của Trường Khoa học Liên ngành và Nghệ thu...
+rag_answer 154: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Hà Nội thuộcTrường Khoa học Liên ngành và Nghệ thuật Hà Nội thuộcTrường Khoa học Liên ngành và Nghệ thuật Hà Nội thuộcTrường Khoa học Liên ngành và Nghệ thuật
+### Câu hỏi: Địa chỉ của Trường Khoa học Liên ngành và Nghệ thuật thuộc Đại học Quốc gia Hà Nội là gì?
+### Câu trả lời: 
+
+--- Query 155: Đại học Quốc gia Hà Nội đã chuyển trụ sở chính đến đâu vào ngày 19 tháng 5 năm 2022? ---
+[Chunk] Tokens: 21 | Text: Đại học Quốc gia Hà Nội đã chuyển trụ sở chính đến...
+rag_answer 155: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtTrụ sở chínhTrụ sở trước đây của Đại học Quốc gia Hà Nội tọa lạc tại địa chỉ số 144Xuân Thủy, quậnCầu Giấy,Hà Nội
+### Câu hỏi: Đại học Quốc gia Hà Nội đã chuyển trụ sở chính đến đâu vào ngày 19 tháng 5 năm 2022?
+### Câu trả lời: 
+
+--- Query 156: Đại học Quốc gia Hà Nội được quy hoạch xây dựng trên diện tích bao nhiêu hecta? ---
+[Chunk] Tokens: 19 | Text: Đại học Quốc gia Hà Nội được quy hoạch xây dựng tr...
+rag_answer 156: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Theo quyết định này, diện tích đất để quy hoạch xây dựng Đại học Quốc gia Hà Nội là 1000 ha, nằm trong phạm vi đất Nông trường 1A thuộc huyệnThạch Thất, tỉnhHà Tâynay làHà Nội Theo quyết định này, diện tích đất để quy hoạch xây dựng Đại học Quốc gia Hà Nội là 1000 ha, nằm trong phạm vi đất Nông trường 1A thuộc huyệnThạch Thất, tỉnhHà Tâynay làHà Nội Theo quyết định này, diện tích đất để quy hoạch xây dựng Đại học Quốc gia Hà Nội là 1000 ha, nằm trong phạm vi đất Nông trường 1A thuộc huyệnThạch Thất, tỉnhHà Tâynay làHà Nội
+### Câu hỏi: Đại học Quốc gia Hà Nội được quy hoạch xây dựng trên diện tích bao nhiêu hecta?
+### Câu trả lời: 
+
+--- Query 157: Khi nào Thủ tướng Chính phủ phê duyệt điều chỉnh quy hoạch chung Đại học Quốc gia Hà Nội tại Hòa Lạc? ---
+[Chunk] Tokens: 23 | Text: Khi nào Thủ tướng Chính phủ phê duyệt điều chỉnh q...
+rag_answer 157: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Ngày 23 tháng 8 năm 2002, Thủ tướng Chính phủ có Quyết định số 702/QĐ-TTg phê duyệt điều chỉnh quy hoạch chung Đại học Quốc gia Hà Nội tạiHòa Lạc.]Số vốn dành cho dự án này tại thời điểm đó là 7320 tỷ đồng Ngày 23 tháng 8 năm 2002, Thủ tướng Chính phủ có Quyết định số 702/QĐ-TTg phê duyệt điều chỉnh quy hoạch chung Đại học Quốc gia Hà Nội tạiHòa Lạc.]Số vốn dành cho dự án này tại thời điểm đó là 7320 tỷ đồng Ngày 23 tháng 8 năm 2002, Thủ tướng Chính phủ có Quyết định số 702/QĐ-TTg phê duyệt điều chỉnh quy hoạch chung Đại học Quốc gia Hà Nội tạiHòa Lạc.]Số vốn dành cho dự án này tại thời điểm đó là 7320 tỷ đồng
+### Câu hỏi: Khi nào Thủ tướng Chính phủ phê duyệt điều chỉnh quy hoạch chung Đại học Quốc gia Hà Nội tại Hòa Lạc?
+### Câu trả lời: 
+
+--- Query 158: Mục tiêu của Đại học Quốc gia Hà Nội về việc chuyển các đơn vị lên cơ sở Hòa Lạc là gì? ---
+[Chunk] Tokens: 23 | Text: Mục tiêu của Đại học Quốc gia Hà Nội về việc chuyể...
+rag_answer 158: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Mục tiêu là đến năm 2015 sẽ đưa một số đơn vị trực thuộc lên cơ sở Hòa Lạc, và vào năm 2025 sẽ chuyển toàn bộ Đại học Quốc gia Hà Nội cùng các cơ sở trực thuộc lên cơ sở mới tại Hòa Lạc Mục tiêu là đến năm 2015 sẽ đưa một số đơn vị trực thuộc lên cơ sở Hòa Lạc, và vào năm 2025 sẽ chuyển toàn bộ Đại học Quốc gia Hà Nội cùng các cơ sở trực thuộc lên cơ sở mới tại Hòa Lạc Mục tiêu là đến năm 2015 sẽ đưa một số đơn vị trực thuộc lên cơ sở Hòa Lạc, và vào năm 2025 sẽ chuyển toàn bộ Đại học Quốc gia Hà Nội cùng các cơ sở trực thuộc lên cơ sở mới tại Hòa Lạc
+### Câu hỏi: Mục tiêu của Đại học Quốc gia Hà Nội về việc chuyển các đơn vị lên cơ sở Hòa Lạc là gì?
+### Câu trả lời: 
+
+--- Query 159: Khi nào Đại học Quốc gia Hà Nội tại Hòa Lạc được khởi công? ---
+[Chunk] Tokens: 15 | Text: Khi nào Đại học Quốc gia Hà Nội tại Hòa Lạc được k...
+rag_answer 159: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Ngày 20 tháng 12 năm 2004, Thủ tướng Chính phủPhan Văn Khảiđã dự và phát lệnh khởi công Đại học Quốc gia Hà Nội tại Hòa Lạc Ngày 20 tháng 12 năm 2004, Thủ tướng Chính phủPhan Văn Khảiđã dự và phát lệnh khởi công Đại học Quốc gia Hà Nội tại Hòa Lạc Ngày 20 tháng 12 năm 2004, Thủ tướng Chính phủPhan Văn Khảiđã dự và phát lệnh khởi công Đại học Quốc gia Hà Nội tại Hòa Lạc
+### Câu hỏi: Khi nào Đại học Quốc gia Hà Nội tại Hòa Lạc được khởi công?
+### Câu trả lời: 
+
+--- Query 160: Khi nào Đại học Quốc gia Hà Nội tiếp nhận các cơ sở đầu tiên tại Hòa Lạc? ---
+[Chunk] Tokens: 19 | Text: Khi nào Đại học Quốc gia Hà Nội tiếp nhận các cơ s...
+rag_answer 160: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ sở Hòa LạcNgày 27 tháng 1 năm 1995, Thủ tướng Chính phủ có Quyết định số 72/TTg về địa điểm Đại học Quốc gia Hà Nội vàĐại học Quốc gia Thành phố Hồ Chí Minh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ sở Hòa LạcNgày 27 tháng 1 năm 1995, Thủ tướng Chính phủ có Quyết định số 72/TTg về địa điểm Đại học Quốc gia Hà Nội vàĐại học Quốc gia Thành phố Hồ Chí Minh Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCơ sở Hòa LạcNgày 27 tháng 1 năm 1995, Thủ tướng Chính phủ có Quyết định số 72/TTg về địa điểm Đại học Quốc gia Hà Nội vàĐại học Quốc gia Thành phố Hồ Chí Minh
+### Câu hỏi: Khi nào Đại học Quốc gia Hà Nội tiếp nhận các cơ sở đầu tiên tại Hòa Lạc?
+### Câu trả lời: 
+
+--- Query 161: Chủ tịch nươc snaof đã tham dự lễ động thổ Trường Đại học Việt - Nhật thuộc Đại học Quốc gia Hà Nội vào ngày 20 tháng 12 năm 2014? ---
+[Chunk] Tokens: 33 | Text: Chủ tịch nươc snaof đã tham dự lễ động thổ Trường ...
+rag_answer 161: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Ngày 20 tháng 12 năm 2014,Chủ tịch nướcTrương Tấn Sangđã tham dự lễ động thổTrường Đại học Việt - Nhậtthuộc Đại học Quốc gia Hà Nội Ngày 20 tháng 12 năm 2014,Chủ tịch nướcTrương Tấn Sangđã tham dự lễ động thổTrường Đại học Việt - Nhậtthuộc Đại học Quốc gia Hà Nội Ngày 20 tháng 12 năm 2014,Chủ tịch nướcTrương Tấn Sangđã tham dự lễ động thổTrường Đại học Việt - Nhậtthuộc Đại học Quốc gia Hà Nội
+### Câu hỏi: Chủ tịch nươc snaof đã tham dự lễ động thổ Trường Đại học Việt - Nhật thuộc Đại học Quốc gia Hà Nội vào ngày 20 tháng 12 năm 2014?
+### Câu trả lời: 
+
+--- Query 162: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội đã nhận Giải Nobel Hòa bình? ---
+[Chunk] Tokens: 22 | Text: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà ...
+rag_answer 162: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội đã nhận Giải Nobel Hòa bình?
+### Câu trả lời: 
+
+--- Query 163: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội được biết đến với Huy chương Fields? ---
+[Chunk] Tokens: 24 | Text: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà ...
+rag_answer 163: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội được biết đến với Huy chương Fields?
+### Câu trả lời: 
+
+--- Query 164: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội đã nhận Huy chương Dirac? ---
+[Chunk] Tokens: 22 | Text: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà ...
+rag_answer 164: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCựu sinh viên ưu túVõ Nguyên GiápĐại tướng đầu tiên, Tổng Tư lệnh tối cao củaQuân đội Nhân dân Việt Nam Nguyễn Phú Trọng- Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam Lê Đức Thọ- Giải Nobel Hòa b Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCựu sinh viên ưu túVõ Nguyên GiápĐại tướng đầu tiên, Tổng Tư lệnh tối cao củaQuân đội Nhân dân Việt Nam Nguyễn Phú Trọng- Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam Lê Đức Thọ- Giải Nobel Hòa b Đại học Quốc gia Hà Nội – Wikipedia tiếng ViệtCựu sinh viên ưu túVõ Nguyên GiápĐại tướng đầu tiên, Tổng Tư lệnh tối cao củaQuân đội Nhân dân Việt Nam Nguyễn Phú Trọng- Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam Lê Đức Thọ- Giải Nobel Hòa b
+### Câu hỏi: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội đã nhận Huy chương Dirac?
+### Câu trả lời: 
+
+--- Query 165: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội đã nhận Giải thưởng Constantin Caratheodory? ---
+[Chunk] Tokens: 25 | Text: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà ...
+rag_answer 165: 
+Dựa vào các thông tin bổ sung dưới đây, hãy trả lời câu hỏi thật ngắn gọn và chính xác.
+### Thông tin: Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn. Trường Đại học Khoa học Xã hội và Nhân văn.
+### Câu hỏi: Ai là cựu sinh viên ưu tú của Đại học Quốc gia Hà Nội đã nhận Giải thưởng Constantin Caratheodory?
+### Câu trả lời: 

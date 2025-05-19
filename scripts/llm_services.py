@@ -1,11 +1,16 @@
-# import os
+import os
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from rag_module import RAG
 from dotenv import load_dotenv
 
 
 class LLMService:
-    def __init__(self, use_rag=True, model_name=None, model_embedding="infloat/multilingual-e5-base"):
+    def __init__(
+        self,
+        use_rag=True,
+        model_name=None,
+        model_embedding="infloat/multilingual-e5-base",
+    ):
         # Load environment variables
         load_dotenv()
 
@@ -23,7 +28,11 @@ class LLMService:
 
         # Initialize tokenizer
         print(f"Loading tokenizer for {self.model_name}...")
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, trust_remote_code=True)
+        self.tokenizer = AutoTokenizer.from_pretrained(
+            self.model_name,
+            trust_remote_code=True,
+            token=os.getenv("HUGGINGFACE_TOKEN"),
+        )
         print("Tokenizer loaded.")
 
         # Load the model without quantization
@@ -31,7 +40,8 @@ class LLMService:
         self.model = AutoModelForCausalLM.from_pretrained(
             self.model_name,
             device_map="cuda",
-            trust_remote_code=True
+            trust_remote_code=True,
+            token=os.getenv("HUGGINGFACE_TOKEN"),
         )
         print("Model loaded successfully.")
 
@@ -60,9 +70,7 @@ class LLMService:
         # Decode and return the response
         return {
             "rag_prompt": input_prompt,
-            "rag_answer": self.tokenizer.decode(
-                output[0], skip_special_tokens=True
-            )
+            "rag_answer": self.tokenizer.decode(output[0], skip_special_tokens=True),
         }
 
     def test(self, path: str):
